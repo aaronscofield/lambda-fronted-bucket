@@ -1,0 +1,7 @@
+*.hcl
+*terraform.tfstate
+*.tfstate.backup
+*/terraform.tfstate
+.terraform
+.terraform.tfstate.lock.info
+*.zip
